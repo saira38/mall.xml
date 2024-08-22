@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE Mall[
+
+<!ELEMENT Mall ( id, name, branch, details )>
+
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT branch  (#PCDATA)>
+<!ELEMENT details (#PCDATA)>
+
+
+
+]>
+
+
+
+<Mall>
+
+<id></id>
+<name>ocean mall</name>
+<branch>DHA</branch>
+<details>Ocean mall is a modern and sophisticated shopping.ocean mall offers a wide varity of shops</details>
+
+</Mall>
